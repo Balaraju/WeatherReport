@@ -29,3 +29,6 @@ To run Weather Report App locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/weather-report.git
    cd weather-report/
+2. Install dependencies:
+   ```bash
+   bundle install
