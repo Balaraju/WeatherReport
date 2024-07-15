@@ -56,6 +56,17 @@ To run Weather Report App locally, follow these steps:
 5. Start the rails server
    ```bash
    rails server
-7. Open Below URL
+6. Install Redis and start the redis server
+   ```bash
+   brew install redis
+   redis-server
+8. Open Below URL
    ```bash
    localhost:3000
+9. You can see below page - Please enter ZipCode/Address
+  ![Index Page](app/assets/images/indexpage.png)
+10. I have added New York Zipcode, Results Before Cache
+   ![Before Cache](app/assets/images/before_cache.png)
+11. Again Click on same page, You will get the results from cache.
+    ![After Cache](app/assets/images/after_cache.png)
+12. 
