@@ -1,24 +1,31 @@
-# README
+# Weather Report App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Weather Report App is a web application that fetches and displays weather forecasts based on zip codes using the WeatherAPI.
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+- [Weather Report App](#weather-report-app)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Features](#features)
+  - [Installation](#installation)
 
-* System dependencies
+## About
 
-* Configuration
+Weather Report App allows users to retrieve current weather information and extended forecasts for a specific zip code. It integrates with the WeatherAPI to provide accurate weather data.
 
-* Database creation
+## Features
 
-* Database initialization
+- Display current temperature, high and low temperatures
+- Show extended forecasts for the next few days
+- Cache forecast data for faster retrieval
+- Simple and intuitive user interface
 
-* How to run the test suite
+## Installation
 
-* Services (job queues, cache servers, search engines, etc.)
+To run Weather Report App locally, follow these steps:
 
-* Deployment instructions
-
-* ...
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather-report.git
+   cd weather-report/
