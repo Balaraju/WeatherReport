@@ -2,6 +2,7 @@
 class Forecast
   CACHE_EXPIRATION = 30.minutes
 	#TODO - We have to put this key into env.
+	#For testing purpose, No need to register same api again.
   API_KEY = '6ecdfa69dc204bfd86103050241407'
 
   attr_reader :current_temp, :high_temp, :low_temp, :location, :extended_forecast
