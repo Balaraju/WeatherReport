@@ -53,4 +53,9 @@ To run Weather Report App locally, follow these steps:
    Right Now I have put in the model - But we have to store in the env file. You have to register below link for API Key
    ```bash
    http://api.weatherapi.com/v1/forecast.json
-5. 
+5. Start the rails server
+   ```bash
+   rails server
+7. Open Below URL
+   ```bash
+   localhost:3000
