@@ -13,7 +13,7 @@ Weather Report App is a web application that fetches and displays weather foreca
 2. Rails Version - Rails 7.2
 3. Redis for caching
 4. RSpec for Specs
-5. Wether API for Getting Wether(https://www.weatherapi.com/)
+5. Weather API for Getting Weather(https://www.weatherapi.com/)
 ## Table of Contents
 
 - [Weather Report App](#weather-report-app)
