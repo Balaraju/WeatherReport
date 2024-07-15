@@ -32,3 +32,6 @@ To run Weather Report App locally, follow these steps:
 2. Install dependencies:
    ```bash
    bundle install
+3. SetUp Env Varible
+   ```bash
+   WEATHER_API_KEY=your_weatherapi_key_here
